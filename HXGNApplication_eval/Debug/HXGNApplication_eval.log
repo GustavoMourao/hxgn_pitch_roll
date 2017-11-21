@@ -1,0 +1,4 @@
+﻿  HXGNApplication_eval.cpp
+c:\users\gustavo\documents\hxgnapplication_eval\hxgnapplication_eval\hxgnapplication_eval.cpp(33): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\gustavo\documents\hxgnapplication_eval\hxgnapplication_eval\hxgnapplication_eval.cpp(93): warning C4018: '<': incompatibilidade de signed/unsigned
+  HXGNApplication_eval.vcxproj -> C:\Users\Gustavo\Documents\HXGNApplication_eval\Debug\HXGNApplication_eval.exe
