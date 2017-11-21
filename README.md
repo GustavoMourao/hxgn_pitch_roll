@@ -35,6 +35,7 @@ Finally, to store the set of calculated values in .txt files we use the function
 storageRollPitch(timems, phi, theta);
 ```
 ### Authors
-Gustavo L. Mourao
-acknowlegment: http://www.cplusplus.com/
+Gustavo L. Mourao.
+
+With consults in: http://www.cplusplus.com/
 
