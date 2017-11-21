@@ -36,6 +36,8 @@ Finally, to store the set of calculated values in .txt files we use the function
 ```sh
 storageRollPitch(timems, phi, theta);
 ```
+
+All the angles is storage in degree units.
 ### Authors
 Gustavo L. Mourao.
 
