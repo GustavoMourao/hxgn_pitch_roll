@@ -21,6 +21,7 @@ wordsInFile(string line, int& wordCount, int& charCount)
 Once counted identified the data, we perform the calculations necessary to obtain the roll and pitch angles, as:
 
 ![equation](https://latex.codecogs.com/gif.latex?tan%5Cphi%3D%5Cfrac%7By%7D%7B%5Csqrt%7B%28x%29%5E2&plus;%28z%29%5E2%7D%7D)
+and 
 ![equation](https://latex.codecogs.com/gif.latex?tan%5Cphi%3D%5Cfrac%7B-x%7D%7Bz%7D)
 
 The function resposible to calculate is:
