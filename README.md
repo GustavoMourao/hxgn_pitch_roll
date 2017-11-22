@@ -2,9 +2,9 @@
 This program get raw cartesian data and transform to pitch and roll angles. Project developmented to Hexagon Agriculture.
 
 ### Getting Started
-This program were development in Microsoft Visual Studio plataform. To execute you have to run the file HXGNApplication_eval.cpp, inside the folder HXGNApplication_eval. The name of file has to be attitude_exam.txt.
+This program were development in Microsoft Visual Studio plataform. To execute you have to run the file HXGNApplication_eval.cpp, inside the folder HXGNApplication_eval. 
 
-The algorithm requires an .txt file which contains the set of raw data (cartesian points from accelerometer). The file has to be put inside the folder HXGNApplication_eval.
+The algorithm requires an .txt file which contains the set of raw data (cartesian points from accelerometer). The file has to be put inside the folder HXGNApplication_eval. The name of file has to be attitude_exam.txt.
 
 ### Runing and test
 Once execute the main HXGNApplication_eval.cpp, the software will create an output file containing the set of algles calculated (roll and pitch), named output_attitude.txt.
