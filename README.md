@@ -39,7 +39,7 @@ storageRollPitch(timems, phi, theta);
 
 All the angles is storage in degree units.
 ### Authors
-Gustavo L. Mourao.
+Gustavo L. Mourao
 
 With consults in: http://www.cplusplus.com/
 
